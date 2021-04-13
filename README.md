@@ -64,4 +64,4 @@ the coordonates will be shifted to the corresponding reference. Othewise, they w
 
 # License
 
-This project is the public domain.
+This project is in the public domain.
